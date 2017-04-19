@@ -1,0 +1,13 @@
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\EOMOD\bin\Release\EOMOD.exe.config
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\EOMOD\bin\Release\EOMOD.exe
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\EOMOD\bin\Release\EOMOD.pdb
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\EOMOD\obj\Release\EOMOD.Views.DetalleStudents.resources
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\EOMOD\obj\Release\EOMOD.frmHome.resources
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\EOMOD\obj\Release\EOMOD.Properties.Resources.resources
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\EOMOD\obj\Release\EOMOD.Views.frmSearchStudents.resources
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\EOMOD\obj\Release\EOMOD.Views.ListStudents.resources
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\EOMOD\obj\Release\EOMOD.frmLogin.resources
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\EOMOD\obj\Release\EOMOD.Views.UpdateStudents.resources
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\EOMOD\obj\Release\EOMOD.csproj.GenerateResource.Cache
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\EOMOD\obj\Release\EOMOD.exe
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\EOMOD\obj\Release\EOMOD.pdb
