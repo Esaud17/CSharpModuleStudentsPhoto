@@ -30,3 +30,14 @@ C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\EOMOD\obj\Deb
 C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\bin\Debug\EOMOD.exe.config
 C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\obj\Debug\EOMOD.exe
 C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\obj\Debug\EOMOD.pdb
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\obj\Debug\EOMOD.csprojResolveAssemblyReference.cache
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\obj\Debug\EOMOD.Views.DetalleStudents.resources
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\obj\Debug\EOMOD.frmHome.resources
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\obj\Debug\EOMOD.Properties.Resources.resources
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\obj\Debug\EOMOD.Views.frmSearchStudents.resources
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\obj\Debug\EOMOD.Views.ListStudents.resources
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\obj\Debug\EOMOD.frmLogin.resources
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\obj\Debug\EOMOD.Views.UpdateStudents.resources
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\obj\Debug\EOMOD.csproj.GenerateResource.Cache
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\bin\Debug\EOMOD.exe
+C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\bin\Debug\EOMOD.pdb
