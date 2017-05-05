@@ -41,3 +41,6 @@ C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleS
 C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\obj\Debug\EOMOD.csproj.GenerateResource.Cache
 C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\bin\Debug\EOMOD.exe
 C:\Users\OERL90\Documents\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\bin\Debug\EOMOD.pdb
+D:\Projectos Softwares\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\bin\Debug\EOMOD.exe.config
+D:\Projectos Softwares\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\obj\Debug\EOMOD.exe
+D:\Projectos Softwares\Visual Studio 2015\Projects\EOMODALUMNOS\CSharpModuleStudentsPhoto\EOMOD\obj\Debug\EOMOD.pdb
